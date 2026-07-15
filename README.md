@@ -27,16 +27,16 @@ Region, Outcome, Applications, Period, etc.)
 ## Screenshots
 
 **Overview**
-![Overview](images/01_overview.png)
+![Overview](01_overview.png)
 
 **Country Analysis**
-![Country Analysis](images/02_country_analysis.png)
+![Country Analysis](02_country_analysis.png)
 
 **Visa Type Deep Dive**
-![Visa Type Deep Dive](images/03_visa_type_deep_dive.png)
+![Visa Type Deep Dive](03_visa_type_deep_dive.png)
 
 **Nationality & Region**
-![Nationality & Region](images/04_nationality_region.png)
+![Nationality & Region](04_nationality_region.png)
 
 ## Key Metrics (DAX / SQL)
 
