@@ -48,7 +48,7 @@ Region, Outcome, Applications, Period, etc.)
 | YoY Growth % | (Current Year − Prior Year) ÷ Prior Year × 100 |
 | COVID Recovery Rate % | 2024 Applications ÷ 2019 Applications × 100 |
 
-Full DAX-to-SQL translations are in [`sql/europe_visa_queries.sql`](sql/europe_visa_queries.sql).
+Full DAX-to-SQL translations are in [`sql/europe_visa_queries.sql`](europe_visa_queries.sql).
 
 ## Tech Stack
 
